@@ -10,5 +10,6 @@
 ### こんばんは
 おやすみなさい
 
-![大神神社](haiden.jpg)
+<img src="haiden.jpg" width=200>
+
 
