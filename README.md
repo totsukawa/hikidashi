@@ -12,5 +12,5 @@
 
 <img src="haiden.jpg" width=200>
 
-[おまけ]（takarabako)
+[お知らせ]（news.md)
 
