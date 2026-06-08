@@ -12,5 +12,5 @@
 
 <img src="haiden.jpg" width=200>
 
-[お知らせ]（
+[お知らせ](news.md)
 
